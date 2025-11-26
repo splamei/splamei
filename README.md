@@ -1,45 +1,43 @@
-<h1 align="left">Hi there! I'm Splamei</h1>
+<h1 align="center">Hey there! I'm Splamei</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/@splamei" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/splamei" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://bsky.app/profile/splamei.vtubers.social" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
+  </a>
   <a href="https://twitch.tv/splamei" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://discord.gg/g2KTP5X9At" target="_blank">
+  <a href="https://www.veemo.uk/discord" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://splamei.itch.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
-  </a>
-  <a href="mailto:splamei.vt@gmail.com" target="_blank">
+  <a href="mailto:social@veemo.uk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="110" src="https://media1.tenor.com/m/mwdRQfRPqfcAAAAd/holo-spice-and-wolf.gif"  />
+<img align="right" height="100" src="https://c.tenor.com/qW5vxtAg--cAAAAd/tenor.gif"  />
 
 ###
 
-<p align="left">I'm an indie VTuber and Game Developer. I'm also the creator of the Bitorpito series and the SplameiPlay store<br><br>I'm not active on GitHub but I am the single maintainer of the Rhythm Plus - Splamei Clients</p>
+<p align="center">I'm an indie VTuber, Game developer and Content creator. I make games, apps and content on YouTube.<br><br>I am the single maintainer for: The SplameiPlay app store, Nimokion game, the Bitorpito game series and the Rhythm Plus Splamei Clients.</p>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/splamei/splamei/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="left">How I code</h2>
+<h2 align="left">Some things I use:</h2>
 
 ###
 
@@ -56,28 +54,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h2 align="left">Other</h2>
+<h2 align="left">Other cool things</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=splamei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=splamei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/splamei">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lmttwpsu2rn4anzbsbfzgq7z4u&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![](https://raw.githubusercontent.com/splamei/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/splamei/github-stats/master/generated/languages.svg#gh-dark-mode-only)
