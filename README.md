@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">I'm an indie VTuber, Game developer and Content creator. I make games, apps and content on YouTube.<br><br>I am the single maintainer for: The SplameiPlay app store, Nimokion game, the Bitorpito game series and the Rhythm Plus Splamei Clients.</p>
+<p align="center">I'm that indie VTuber, Game developer and Content creator you've never heard of. I make games, apps and content on YouTube.<br><br>I am the single maintainer for: The SplameiPlay app store, Nimokion game, the Bitorpito game series and the Rhythm Plus Splamei Clients.</p>
 
 ###
 
