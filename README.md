@@ -65,5 +65,5 @@
 
 <h2 align="left">Other cool things</h2>
 
-![](https://raw.githubusercontent.com/splamei/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/splamei/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/splamei/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/splamei/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
